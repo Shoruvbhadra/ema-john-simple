@@ -1,0 +1,25 @@
+.single-product{
+    display: flex;
+    border-bottom: 2px solid grey;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.product-name{
+    color: rgba(11, 11, 248, 0.856);
+}
+.pro-info{
+    margin-left: 10px;
+}
+.price{
+    color: green;
+}
+.stock{
+    color: red;
+}
+.shop-btn{
+    background-color: goldenrod;
+    height: 35px;
+    width: 100px;
+    border: 2px solid grey;
+    cursor: pointer;
+}
